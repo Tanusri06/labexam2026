@@ -53,4 +53,4 @@ jobs:
           app-name: 'studentrg'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_70C46316A19D4F67A1E7B4CA0C2CE52F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9B38A8D48C7F4A5B8ADCBA9AEC5B25B5 }}
